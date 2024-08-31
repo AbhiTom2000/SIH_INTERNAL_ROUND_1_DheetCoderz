@@ -1,6 +1,43 @@
 # AI-Enhanced Healthcare Diagnostics and Management System (inspired by ZK Medical Billing Platform)
+## Project Overview
+DoctorG is a web application designed to assist users in identifying potential health conditions based on their symptoms. By inputting their symptoms, users can receive a list of possible diseases along with their corresponding probability scores.
 
-This README provides an overview of the project, including team details, relevant links, tasks completed, tech stack, key features, and steps to run the project locally.
+## Features
+Symptom-based prediction: Users can enter their symptoms to receive potential diagnoses.
+Probability scores: Each predicted disease is assigned a probability score indicating its likelihood.
+Additional information: Users can access more details about predicted diseases, including symptoms, causes, and treatment options.
+
+## Technologies Used
+Python: The primary programming language for the backend.
+Flask: A lightweight web framework for building the web application.
+Machine Learning: A machine learning model is used to predict diseases based on symptoms.
+Natural Language Processing (NLP): NLP techniques are employed to process user input and extract relevant symptoms.
+Database: A database (e.g., SQLite, PostgreSQL) is used to store symptom-disease data.
+
+## Installation
+Clone the repository:
+Bash
+git clone https://github.com/your-username/DoctorG.git
+
+
+Install requirements:
+Bash
+cd DoctorG
+pip install -r requirements.txt
+
+
+Run the application:
+Bash
+python app.py
+
+
+## Usage
+Access the web application: Open your web browser and navigate to http://localhost:5000 (or the specified port).
+Enter symptoms: Input your symptoms in the provided field.
+View predictions: The application will display a list of potential diseases along with their probability scores.
+
+## Contributing
+Contributions are welcome! Please feel free to submit pull requests or issues.
 
 ## Team Details
 
