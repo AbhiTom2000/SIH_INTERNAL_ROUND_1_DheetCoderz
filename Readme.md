@@ -17,26 +17,6 @@ DoctorG is a web application designed to assist users in identifying potential h
 - Natural Language Processing (NLP): NLP techniques are employed to process user input and extract relevant symptoms.
 - Database: A database (e.g., SQLite, PostgreSQL) is used to store symptom-disease data.
 
-**Installation**
-
-- Clone the repository:
-  
-Bash
-git clone https://github.com/your-username/DoctorG.git
-
-
-- Install requirements:
-  
-Bash
-cd DoctorG
-pip install -r requirements.txt
-
-
-- Run the application:
-  
-Bash
-python app.py
-
 
 **Usage**
 
