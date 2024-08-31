@@ -1,5 +1,5 @@
 # AI-Enhanced Healthcare Diagnostics and Management System (inspired by ZK Medical Billing Platform)
-## Project Overview
+** Project Overview
 DoctorG is a web application designed to assist users in identifying potential health conditions based on their symptoms. By inputting their symptoms, users can receive a list of possible diseases along with their corresponding probability scores.
 
 ## Features
