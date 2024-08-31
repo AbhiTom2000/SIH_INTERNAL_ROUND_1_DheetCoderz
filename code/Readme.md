@@ -1,15 +1,15 @@
 ## Tasks Accomplished
 
-- [x] **Data Acquisition**: Collect and curate a comprehensive dataset of symptoms and corresponding diseases.
-- [x] **Data Preprocessing**: Clean and preprocess the dataset to ensure data quality and consistency.
-- [x] **Feature Engineering**: Extract relevant features from the data to improve model performance.
-- [x] **Model Selection and Training**: Choose an appropriate machine learning algorithm and train it on the prepared dataset.
-- [x] **Model Evaluation**: Evaluate the model's performance using appropriate metrics.
-- [x] **Web Application Development**: Build a user-friendly web interface using Flask or a similar framework.
-- [x] **API Integration**: Develop APIs for other applications to interact with the DoctorG service.
-- [x] **Deployment**: Deploy the application to a suitable hosting environment.
-- [x] **Testing and Quality Assurance**: Thoroughly test the application to ensure its functionality and reliability.
-- [x] **Documentation**: Create comprehensive documentation for the project, including user guides and technical documentation.
+- [x] **Data Acquisition**:               Collect and curate a comprehensive dataset of symptoms and corresponding diseases.
+- [x] **Data Preprocessing**:             Clean and preprocess the dataset to ensure data quality and consistency.
+- [x] **Feature Engineering**:            Extract relevant features from the data to improve model performance.
+- [x] **Model Selection and Training**:   Choose an appropriate machine learning algorithm and train it on the prepared dataset.
+- [x] **Model Evaluation**:               Evaluate the model's performance using appropriate metrics.
+- [x] **Web Application Development**:    Build a user-friendly web interface using Flask or a similar framework.
+- [x] **API Integration**:                Develop APIs for other applications to interact with the DoctorG service.
+- [x] **Deployment**:                     Deploy the application to a suitable hosting environment.
+- [x] **Testing and Quality Assurance**:  Thoroughly test the application to ensure its functionality and reliability.
+- [x] **Documentation**:                  Create comprehensive documentation for the project, including user guides and technical documentation.
 
       
 ## Technology Stack
