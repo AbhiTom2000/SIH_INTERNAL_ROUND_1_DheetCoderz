@@ -10,12 +10,12 @@ This README provides an overview of the project, including team details, relevan
 
 **Team Members:**
 
-- **MEMBER_1** - 2024PAI7313 - [@AbhiTom2000](https://github.com/AbhiTom2000)
-- **MEMBER_2** - 2024PAI7331 - [@Rishab1909](https://github.com/Rishab1909)
-- **MEMBER_3** - 2024PAI7324 - [@shubhan1302](https://github.com/shubhan1302)
-- **MEMBER_4** - 2024PAI7325 - [@janvi2716](https://github.com/janvi2716)
-- **MEMBER_5** - 2024PAI7314 - [@Soujit23](https://github.com/Soujit23)
-- **MEMBER_6** - 2024PAI7303 - [@savageTHEdevil](https://github.com/savageTHEdevil)
+- **Abhinav Thomas** - 2024PAI7313 - [@AbhiTom2000](https://github.com/AbhiTom2000)
+- **Rishab Bhushan** - 2024PAI7331 - [@Rishab1909](https://github.com/Rishab1909)
+- **Shubhan Tuteja** - 2024PAI7324 - [@shubhan1302](https://github.com/shubhan1302)
+- **Janvi Sharma** - 2024PAI7325 - [@janvi2716](https://github.com/janvi2716)
+- **Soujit Dutta** - 2024PAI7314 - [@Soujit23](https://github.com/Soujit23)
+- **Rayyan Naeem** - 2024PAI7303 - [@savageTHEdevil](https://github.com/savageTHEdevil)
 
 ## Project Links
 
