@@ -15,7 +15,7 @@ DoctorG is a web application designed to assist users in identifying potential h
 - Flask: A lightweight web framework for building the web application.
 - Machine Learning: A machine learning model is used to predict diseases based on symptoms.
 - Natural Language Processing (NLP): NLP techniques are employed to process user input and extract relevant symptoms.
-- Database: A database (e.g., SQLite, PostgreSQL) is used to store symptom-disease data.
+- Database: A database is used to store symptom-disease data.
 
 
 **Usage**
