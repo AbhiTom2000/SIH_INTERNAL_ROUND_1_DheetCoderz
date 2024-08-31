@@ -49,5 +49,5 @@ Contributions are welcome! Please feel free to submit pull requests or issues.
 - **Final SIH Presentation:** https://github.com/AbhiTom2000/SIH-Internal-2024-DheetCoderz/blob/master/files/SIH_PPT_DheetCoderz.pdf
 - **Video Demonstration:** https://youtu.be/m4TFTYCq3Vc
 - **Live Deployment:** https://doctor-g-frontend.vercel.app/
-- **Source Code:** [GitHub Repository](GITHUB LINK TO THE REPO)
+- **Source Code:** https://github.com/AbhiTom2000/SIH-Internal-2024-DheetCoderz/tree/master/code
 - **Additional Resources:** NONE
