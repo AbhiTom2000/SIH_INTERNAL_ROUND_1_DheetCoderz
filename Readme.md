@@ -1,21 +1,21 @@
-# PS Chosen for Internal Hackathon (File Name from the drive folder)
+# AI-Enhanced Healthcare Diagnostics and Management System (inspired by ZK Medical Billing Platform)
 
 This README provides an overview of the project, including team details, relevant links, tasks completed, tech stack, key features, and steps to run the project locally.
 
 ## Team Details
 
-**Team Name:** TEAM_NAME_HERE
+**Team Name:** DheetCoderz
 
-**Team Leader:** [@USERNAME](https://github.com/USERNAME)
+**Team Leader:** [@USERNAME](https://github.com/AbhiTom2000)
 
 **Team Members:**
 
-- **MEMBER_1** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
-- **MEMBER_2** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
-- **MEMBER_3** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
-- **MEMBER_4** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
-- **MEMBER_5** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
-- **MEMBER_6** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
+- **MEMBER_1** - ROLL_NUMBER - [@USERNAME](https://github.com/AbhiTom2000)
+- **MEMBER_2** - ROLL_NUMBER - [@USERNAME](https://github.com/Rishab1909)
+- **MEMBER_3** - ROLL_NUMBER - [@USERNAME](https://github.com/shubhan1302)
+- **MEMBER_4** - ROLL_NUMBER - [@USERNAME](https://github.com/janvi2716)
+- **MEMBER_5** - ROLL_NUMBER - [@USERNAME](https://github.com/Soujit23)
+- **MEMBER_6** - ROLL_NUMBER - [@USERNAME](https://github.com/savageTHEdevil)
 
 ## Project Links
 
