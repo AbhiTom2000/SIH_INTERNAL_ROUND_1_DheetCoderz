@@ -20,7 +20,7 @@ DoctorG is a web application designed to assist users in identifying potential h
 
 **Usage**
 
-- Access the web application: Open your web browser and navigate to http://localhost:5000 (or the specified port).
+- Access the web application: Open your web browser and navigate to https://doctor-g-frontend.vercel.app/.
 - Enter symptoms: Input your symptoms in the provided field.
 - View predictions: The application will display a list of potential diseases along with their probability scores.
 
